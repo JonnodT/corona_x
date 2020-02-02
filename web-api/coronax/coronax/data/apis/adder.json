@@ -1,0 +1,13 @@
+{
+  "id": -1,
+  "day_idx": -1,
+  "general_eval": -1,
+  "body_temp": -1.1,
+  "sleep_time": -1.1,
+  "symptoms": [-1,-1,-1,-1,-1],
+  "blog": "xxxxxx",
+  "health_score": 100,
+  "corona_score": 100
+}
+
+

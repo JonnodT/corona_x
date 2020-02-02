@@ -1,0 +1,11 @@
+prefix=/Users/tankangmin/Documents/MyDoc/USC/HackSC_2020/coronax/venv/condaenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.2.1
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

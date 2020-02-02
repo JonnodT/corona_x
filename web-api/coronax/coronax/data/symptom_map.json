@@ -1,0 +1,50 @@
+{
+  "head" : {
+    "headache": 1,
+    "dizziness": 2
+  },
+  "nose" : {
+    "redness": 11,
+    "congestion": 12,
+    "runny nose": 13
+  },
+  "eyes" : {
+    "light sensitivity" : 21,
+    "gritty" : 22,
+    "stinging" : 23,
+    "burning" : 24,
+    "blurred vision" : 25
+  },
+  "throat" : {
+    "scratchy" : 31,
+    "coughing" : 32,
+    "sputum" : 33,
+    "swollen pain": 34,
+    "difficulty swallowing" : 35,
+    "inflamed" : 36,
+    "lump existing": 37
+  },
+  "bronchus" : {
+    "scratchy" : 41,
+    "contracted": 42
+  },
+  "lungs" : {
+    "chest pain" : 51,
+    "difficulty breathing": 52
+  },
+  "stomach" : {
+    "nausea" : 61,
+    "vomitting" : 62,
+    "chronic pain": 63,
+    "constipation": 64,
+    "diarrhea" : 65,
+    "severe pain": 66
+  },
+  "lower_abdomin" : {
+    "chronic pain": 71,
+    "severe pain": 72
+  },
+  "muscle" : {
+    "muscle pain": 81
+  }
+}

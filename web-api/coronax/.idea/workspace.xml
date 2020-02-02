@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1f46cad-548b-4dde-ade2-a19294cce2c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDF0TvRQmmTYuOdWu1jYrUtuJc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/coronax/data/Algorithm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coronax/data/Algorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coronax/data" />
+      <recent name="$PROJECT_DIR$/coronax/data/apis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.brain">
+    <configuration name="brain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coronax" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coronax/data/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coronax/data/Algorithm/brain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coronax" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coronax/data/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coronax/data/Algorithm/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.brain" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f46cad-548b-4dde-ade2-a19294cce2c0" name="Default Changelist" comment="" />
+      <created>1580572534199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580572534199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="286" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580623647055">
+      <screen x="0" y="23" width="1536" height="909" />
+    </state>
+    <state x="620" y="286" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1536.909@0.23.1536.909" timestamp="1580623647055" />
+    <state width="1515" height="328" key="GridCell.Tab.0.bottom" timestamp="1580638132724">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="328" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1580638132724" />
+    <state width="747" height="328" key="GridCell.Tab.0.bottom/0.23.1536.909@0.23.1536.909" timestamp="1580624041604" />
+    <state width="1085" height="328" key="GridCell.Tab.0.bottom/0.23.1536.910@0.23.1536.910" timestamp="1580632050687" />
+    <state width="1085" height="328" key="GridCell.Tab.0.bottom/0.23.1536.911@0.23.1536.911" timestamp="1580635598498" />
+    <state width="1515" height="328" key="GridCell.Tab.0.center" timestamp="1580638132724">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="328" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1580638132724" />
+    <state width="747" height="328" key="GridCell.Tab.0.center/0.23.1536.909@0.23.1536.909" timestamp="1580624041604" />
+    <state width="1085" height="328" key="GridCell.Tab.0.center/0.23.1536.910@0.23.1536.910" timestamp="1580632050686" />
+    <state width="1085" height="328" key="GridCell.Tab.0.center/0.23.1536.911@0.23.1536.911" timestamp="1580635598497" />
+    <state width="1515" height="328" key="GridCell.Tab.0.left" timestamp="1580638132723">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="328" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1580638132723" />
+    <state width="747" height="328" key="GridCell.Tab.0.left/0.23.1536.909@0.23.1536.909" timestamp="1580624041603" />
+    <state width="1085" height="328" key="GridCell.Tab.0.left/0.23.1536.910@0.23.1536.910" timestamp="1580632050686" />
+    <state width="1085" height="328" key="GridCell.Tab.0.left/0.23.1536.911@0.23.1536.911" timestamp="1580635598497" />
+    <state width="1515" height="328" key="GridCell.Tab.0.right" timestamp="1580638132724">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="328" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1580638132724" />
+    <state width="747" height="328" key="GridCell.Tab.0.right/0.23.1536.909@0.23.1536.909" timestamp="1580624041604" />
+    <state width="1085" height="328" key="GridCell.Tab.0.right/0.23.1536.910@0.23.1536.910" timestamp="1580632050687" />
+    <state width="1085" height="328" key="GridCell.Tab.0.right/0.23.1536.911@0.23.1536.911" timestamp="1580635598497" />
+    <state x="537" y="210" key="SettingsEditor" timestamp="1580614459555">
+      <screen x="0" y="23" width="1536" height="909" />
+    </state>
+    <state x="269" y="114" key="SettingsEditor/0.23.1536.904@0.23.1536.904" timestamp="1580573103802" />
+    <state x="269" y="114" key="SettingsEditor/0.23.1536.907@0.23.1536.907" timestamp="1580575924056" />
+    <state x="537" y="97" key="SettingsEditor/0.23.1536.908@0.23.1536.908" timestamp="1580605196177" />
+    <state x="537" y="210" key="SettingsEditor/0.23.1536.909@0.23.1536.909" timestamp="1580614459555" />
+    <state x="590" y="123" width="846" height="707" key="dock-window-1" timestamp="1580589340005">
+      <screen x="0" y="23" width="1536" height="909" />
+    </state>
+    <state x="590" y="123" width="846" height="707" key="dock-window-1/0.23.1536.909@0.23.1536.909" timestamp="1580589340005" />
+    <state x="663" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1580625561255">
+      <screen x="0" y="23" width="1536" height="909" />
+    </state>
+    <state x="663" y="220" width="672" height="678" key="search.everywhere.popup/0.23.1536.909@0.23.1536.909" timestamp="1580625561255" />
+  </component>
+</project>

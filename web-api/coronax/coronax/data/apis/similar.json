@@ -1,0 +1,74 @@
+{
+  "size" : 10,
+  "cases": [
+    {
+      "user_id" : 1,
+      "day_cnt" : 2,
+      "similarity": "0.8"
+      "days" : [
+        {
+          "day_idx": -1,
+          "general_eval": -1,
+          "body_temp": -1.1,
+          "sleep_time": -1.1,
+          "symptoms": [-1,-1,-1,-1,-1],
+          "blog": "xxxxxx"
+        },
+        {
+          "day_idx": -1,
+          "general_eval": -1,
+          "body_temp": -1.1,
+          "sleep_time": -1.1,
+          "symptoms": [-1,-1,-1,-1,-1],
+          "blog": "xxxxxx"
+        }
+      ]
+    },
+    {
+      "user_id" : 2,
+      "day_cnt" : 2,
+      "similarity": 0.8
+      "days" : [
+        {
+          "day_idx": -1,
+          "general_eval": -1,
+          "body_temp": -1.1,
+          "sleep_time": -1.1,
+          "symptoms": [-1,-1,-1,-1,-1],
+          "blog": "xxxxxx"
+        },
+        {
+          "day_idx": -1,
+          "general_eval": -1,
+          "body_temp": -1.1,
+          "sleep_time": -1.1,
+          "symptoms": [-1,-1,-1,-1,-1],
+          "blog": "xxxxxx"
+        }
+      ]
+    },
+    {
+      "user_id" : 3,
+      "day_cnt" : 2,
+      "similarity": 0.8
+      "days" : [
+        {
+          "day_idx": -1,
+          "general_eval": -1,
+          "body_temp": -1.1,
+          "sleep_time": -1.1,
+          "symptoms": [-1,-1,-1,-1,-1],
+          "blog": "xxxxxx"
+        },
+        {
+          "day_idx": -1,
+          "general_eval": -1,
+          "body_temp": -1.1,
+          "sleep_time": -1.1,
+          "symptoms": [-1,-1,-1,-1,-1],
+          "blog": "xxxxxx"
+        }
+      ]
+    }
+  ]
+}

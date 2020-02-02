@@ -1,0 +1,1 @@
+{'code': 200, 'data': 100, 'corona_score':100}}

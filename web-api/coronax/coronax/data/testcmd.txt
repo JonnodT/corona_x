@@ -1,0 +1,3 @@
+curl --header "Content-Type: application/json" --request POST --data '{"id": 2, "day_idx": 2, "general_eval": 1, "body_temp": 39.5, "sleep_time": 10.5, "symptoms": [1,2],"blog": " feeling like shit"}' http://localhost:8000/v1/data/add
+curl --header "Content-Type: application/json" --request POST http://localhost:8000/v1/data/register
+curl --header "Content-Type: application/json" --request POST  http://localhost:8000/v1/data/similar/1/1
