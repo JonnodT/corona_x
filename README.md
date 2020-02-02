@@ -2,7 +2,9 @@
 
 Infecting more than 14k people, the 2019 Novel Coronavirus has caused a global health emergency. CoronaX is an iOS application that helps inform people by providing predicted infection index using multilayer neural network. 
 
-**[CLICK HERE for detailed product demo!](https://technopagan.github.io/slides-in-markdown/)**
+**[CLICK HERE for an introduction video!](https://www.youtube.com/watch?v=8YSBWKTebgU&feature=youtu.be)**
+
+**[CLICK HERE for the complete demo slides](https://technopagan.github.io/slides-in-markdown/)**
 
 
 ## Project Structure
